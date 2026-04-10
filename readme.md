@@ -23,7 +23,7 @@ This project is a simple HTML page showcasing a variety of styled buttons using 
 
 [live@](https://jishnusmanoj2004-gif.github.io/button-project-1/)
 
-![ss2](./2025.png)
+[ss3](./2222.png)
 
 ## 🛠️ Technologies Used
 
